@@ -4,8 +4,8 @@ THIS IS THE README FILE THAT WILL KEEP THE DESCRIPTION AND THE PATCH UPDATES THA
 
 IMPORTANT NOTE: - The web is made in Spanish but I have intention to translate it to English and Korean, I decided
 to start it in my native language becouse it will be easier for me to learn html and css if I dont need to focus
-on if what im thyping is well written and explained. The side notes, path updates and descriptions will all be
-in English becouse I want to upload this web to github just as a project that anyone can watch. - END OF IMPORTANT NOTE
+on what im thyping. The side notes, path updates and descriptions will all be in English becouse I want to upload 
+this web to github just as a project that anyone can watch. - END OF IMPORTANT NOTE
 
 IMPORTANT NOTE: - The versions will be divided by beta (pre-released and almost finished version), alpha (not polished 
 early state of a version, ready to test but not to release) and pre-alpha (barely started version of the web)
